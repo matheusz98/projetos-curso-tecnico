@@ -4,8 +4,8 @@
 <img src="img/logo-qi.png" alt="Logotipo da escola QI" width="300">
 </p>
 
-Olá! Seja bem-vindo ao meu repositório de projetos realizados durante meu aprendizado no curso Técnico em Informática para Internet.
-Aqui você irá encontrar alguns dos projetos que desenvolvi durante as aulas do curso.
+<p align="center">Olá! Seja bem-vindo ao meu repositório de projetos realizados durante meu aprendizado no curso Técnico em Informática para Internet.
+Aqui você irá encontrar alguns dos projetos que desenvolvi durante as aulas do curso.</p>
 
 <h2 align="center"> :computer: Tecnologias Utilizadas :computer:</h2>
 
