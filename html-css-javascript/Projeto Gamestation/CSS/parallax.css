@@ -1,0 +1,129 @@
+body, html{
+	margin: 0;
+	font: 15px "Lato", sans-serif;
+	color: #777;
+	height: 100%;
+}
+
+.conteudo{
+	color: #777;
+	background-color: #3d0099;
+	text-align: justify;
+	padding: 50px 80px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+h3{
+  font-family: Bahnschrift;
+	text-transform: uppercase;
+  font-size: 50px;
+	color: #ffffff;
+	text-align: center;
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9, .box10, .box11, .box12, .box13, .box14, .box15, .box16, .box17{
+	position: relative;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.box1{
+	background-image: url(TGA/goty2019.jpg);
+}
+
+.box2{
+	background-image: url(TGA/goty2018.png);
+}
+
+.box3{
+	background-image: url(TGA/goty2017.jpg);
+}
+
+.box4{
+	background-image: url(TGA/goty2016.jpg);
+}
+
+.box5{
+	background-image: url(TGA/goty2015.jpg);
+}
+
+.box6{
+	background-image: url(TGA/goty2014.jpg);
+}
+
+.box7{
+	background-image: url(TGA/goty2013.jpg);
+}
+
+.box8{
+	background-image: url(TGA/goty2012.jpg);
+}
+
+.box9{
+	background-image: url(TGA/goty2011.jpg);
+}
+
+.box10{
+	background-image: url(TGA/goty2010.jpg);
+}
+
+.box11{
+	background-image: url(TGA/goty2009.jpg);
+}
+
+.box12{
+	background-image: url(TGA/goty2008.jpg);
+}
+
+.box13{
+	background-image: url(TGA/goty2007.jpg);
+}
+
+.box14{
+	background-image: url(TGA/goty2006.jpg);
+}
+
+.box15{
+	background-image: url(TGA/goty2005.jpg);
+}
+
+.box16{
+	background-image: url(TGA/goty2004.jpg);
+}
+
+.box17{
+	background-image: url(TGA/goty2003.jpg);
+}
+
+p{
+  font-family: Bahnschrift;
+	margin-bottom: 20px;
+	text-align: center;
+  font-size: 20px;
+	color: white;
+}
+
+.conteudo-titulo{
+	position: absolute;
+	left: 0%;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.conteudo-titulo span.titulo{
+	color: #fff;
+	background-color: #ff4d4d;
+	padding: 20px;
+  font-size: 11px;
+	font-style: 25px;
+	letter-spacing: 3px;
+}
+
+a{
+	text-decoration: none;
+}
