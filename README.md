@@ -77,7 +77,14 @@ Aqui você irá encontrar alguns dos projetos que desenvolvi durante as aulas do
   <p>Um aplicativo de agenda de contatos.</p>
   <a href="https://github.com/matheusz98/projetos-curso-tecnico/tree/master/flutter/google_agenda">Agenda de Contatos</a>
   <hr>
+  
+  <h3>Pokédex Lista</h3>
+  <p>Continuação do projeto da pokédex</p>
+  <a href="https://github.com/matheusz98/projetos-curso-tecnico/tree/master/flutter/pokedex_lista">Pokédex Lista</a>
+  <hr>
 </details>
+
+
 
 <h2 align="center">Curtiu o repositório? Fique a vontade para fazer uso dele! :grin:</h2>
 
