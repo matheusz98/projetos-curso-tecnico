@@ -31,10 +31,13 @@ class _HomeState extends State<Home>{
     Contact contact = listOfContacts.elementAt(index);
     return ListTile(
       leading: IconButton(
-        icon: Icon(
-          (contact.isFavorite) ? Icons.star : Icons.star_border,
-          color: Theme.of(context).primaryColor,
-          size: 20,
+        icon: Hero(
+            tag: contact.cellPhone,
+            child: Icon(
+            (contact.isFavorite) ? Icons.star : Icons.star_border,
+            color: Theme.of(context).primaryColor,
+            size: 20,
+          ),
         ),
         onPressed: () {
           setState(() {
@@ -45,11 +48,14 @@ class _HomeState extends State<Home>{
       title: Row(
         children: [
           ClipOval(
-            child: Image.asset(
-              contact.photo,
-              width: 40,
-              height: 40,
-              fit: BoxFit.cover,
+            child: Hero(
+              tag: contact.name,
+                child: Image.asset(
+                contact.photo,
+                width: 40,
+                height: 40,
+                fit: BoxFit.cover,
+              ),
             ),
           ),
           SizedBox(
